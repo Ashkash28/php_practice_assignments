@@ -1,0 +1,13 @@
+.border {
+	border: 1px solid black;
+	width: 400px;
+	height: 40px;
+}
+
+.grey {
+	background-color: #B8B8B8;
+}
+
+table tr td {
+	padding: 10px;
+}
